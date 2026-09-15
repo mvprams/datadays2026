@@ -20,4 +20,4 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Github Actions Test
           to: smartinez@clevelandohio.gov
-          html_body: file://analysis.txt
+          html_body: file://analysis.html
