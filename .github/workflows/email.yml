@@ -19,6 +19,6 @@ jobs:
           username: andrew.d.winter@gmail.com
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Github Actions Test
-          to: smartinez@clevelandohio.gov
+          to: andrew.d.winter@gmail.com
           from: email@email.com
           html_body: file://analysis.html
